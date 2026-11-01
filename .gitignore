@@ -1,0 +1,8 @@
+# 老师的算法脚本，版权归原作者，不公开上传
+# 使用前请从 yfkong/pdp 仓库下载以下两个文件放到本目录
+backend/SSCFLP_MH31.py
+backend/edp_ils31.py
+
+# Python 缓存
+__pycache__/
+*.pyc
