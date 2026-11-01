@@ -1,0 +1,15 @@
+[general]
+name=Rural Elderly Siting Plugin
+description=农村养老医疗点选址与均衡划片 Processing 插件（三输出：分配面/中心/片区面）
+about=保留 v2 业务算法（需求点坐标/空间包含定位/方向a），后端 EDP 求解器随插件打包。
+version=2.0.0
+qgisMinimumVersion=3.22
+qgisMaximumVersion=4.99
+author=用户提供；插件封装协助：Codex
+email=
+category=Vector
+hasProcessingProvider=yes
+experimental=True
+deprecated=False
+
+[End of file]
