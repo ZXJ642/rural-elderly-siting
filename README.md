@@ -16,7 +16,7 @@
 
 本插件核心算法 EDP/ILS、SSCFLP 求解脚本引用自老师的公开仓库：
 
-> **github.org/yfkong/pdp**
+> **[github.org/yfkong/pdp](https://github.com/yfkong/pdp)**
 
 请在使用前从该仓库下载以下两个脚本，放入插件的 `backend/` 目录：
 - `edp_ils31.py`
@@ -28,7 +28,7 @@
 
 1. 将本插件文件夹复制到 QGIS 插件目录：
    `C:\Users\<你的用户名>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\`
-2. 从老师仓库（https://github.com/yfkong/pdp）下载 `edp_ils31.py`、`SSCFLP_MH31.py`，
+2. 从老师仓库下载 `edp_ils31.py`、`SSCFLP_MH31.py`，
    放入插件的 `backend/` 子文件夹。
 3. 重启 QGIS，在"插件管理器"中启用本插件。
 4. 首次运行需在参数面板指定：
