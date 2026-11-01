@@ -14,9 +14,9 @@
 
 ## 重要说明（算法引用）
 
-本插件**不包含核心求解算法**。核心 EDP/ILS、SSCFLP 求解脚本引用自老师的公开仓库：
+本插件核心算法 EDP/ILS、SSCFLP 求解脚本引用自老师的公开仓库：
 
-> **https://github.com/yfkong/pdp**
+> **github.org/yfkong/pdp**
 
 请在使用前从该仓库下载以下两个脚本，放入插件的 `backend/` 目录：
 - `edp_ils31.py`
