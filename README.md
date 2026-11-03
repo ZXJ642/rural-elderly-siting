@@ -42,4 +42,4 @@
 
 ## 版权声明
 
-选址求解算法（EDP/ILS、SSCFLP）版权归原作者 yfkong 所有，仅供学习研究使用.
+选址求解算法（EDP/ILS、SSCFLP）版权归原作者 yfkong 所有，仅供学习研究使用。
